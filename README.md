@@ -4,9 +4,9 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 
 ## Contenido
 
-- Funciones básicas en JavaScript: ejemplos y prácticas con funciones para cálculo, condicionales y operadores.
-- Ejercicios prácticos: pequeños proyectos y scripts para reforzar conceptos fundamentales.
-- Uso de la consola para depuración y pruebas rápidas.
+- **Funciones básicas en JavaScript:** Ejemplos y prácticas con funciones para cálculo, condicionales y operadores.
+- **Ejercicios prácticos:** Pequeños proyectos y scripts para reforzar conceptos fundamentales.
+- **Uso de la consola:** Para depuración y pruebas rápidas.
 
 ## Tecnologías usadas
 
