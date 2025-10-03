@@ -16,9 +16,11 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 
 ## 📃 Ejercicios resueltos
 
-[Ejercicio00_prueba](https://github.com/AngelPR22/Programacion/blob/main/Programacion_ejemplo.txt)
+- [Ponsangel00.zip](https://github.com/user-attachments/files/22682275/Ponsangel00.zip)
+- [Ponsangel01.zip](https://github.com/user-attachments/files/22682278/Ponsangel01.zip)
+- [Ponsangel02.zip](https://github.com/user-attachments/files/22682279/Ponsangel02.zip)
 
-> En programacion no tenemos archivos subidos si no carpetas asi que dejé aqui un archivo cualquiera para poner el ejemplo
+> En programacion no tenemos archivos subidos si no carpetas asi que los comprimí y dejé aqui los zip para que pueda ser descargado y verlo por ti mismo 
 
 ![Javascript](https://blog.interfell.com/hubfs/JavaScript%20un%20lenguaje%20de%20programaci%C3%B3n.jpg)
 
