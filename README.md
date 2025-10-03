@@ -16,7 +16,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 
 ## 📃 Ejercicios resueltos
 
-[Ejercicio00_prueba]()
+[Ejercicio00_prueba](https://github.com/AngelPR22/Programacion/blob/main/README.md)
 
 > En programacion no tenemos archivos subidos si no carpetas asi que dejé aqui un archivo cualquiera para poner el ejemplo
 
