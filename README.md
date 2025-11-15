@@ -16,9 +16,20 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 
 ## 📃 Ejercicios resueltos
 
-- [Ponsangel00.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Pons_Angel_199.zip)
-- [Ponsangel01.zip](https://github.com/user-attachments/files/22682278/Ponsangel01.zip)
-- [Ponsangel02.zip](https://github.com/user-attachments/files/22682279/Ponsangel02.zip)
+- [Ponsangel1.1.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel1.1.zip)
+- [Ponsangel1.2.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel1.2.zip)
+- [Ponsangel1.3.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel1.3.zip)
+- [Ponsangel2.6.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel2.6.zip)
+- [Ponsangel2.7.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel2.7.zip)
+- [Ponsangel2.8.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel2.8.zip)
+- [Ponsangel2.9.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel2.9.zip)
+- [Ponsangel3.10.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel3.10.zip)
+- [Ponsangel3.11.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel3.11.zip)
+- [Ponsangel3.12.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Ponsangel3.12.zip)
+
+## 📝 Examenes resueltos
+
+- [Ponsangel99.zip](https://github.com/AngelPR22/Programacion/raw/refs/heads/main/Pons_Angel_199.zip)
 
 > En java no tenemos archivos subidos si no carpetas asi que los comprimí y dejé aqui los zip para que pueda ser descargado y verlo por ti mismo 
 
