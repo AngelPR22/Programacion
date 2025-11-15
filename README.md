@@ -10,7 +10,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 
 ## ⚙️ Tecnologías usadas
 
-- JavaScript 
+- Java
 - Eclipe
 - Consola del navegador para pruebas
 
@@ -20,7 +20,7 @@ Este repositorio contiene los trabajos y ejercicios realizados durante el módul
 - [Ponsangel01.zip](https://github.com/user-attachments/files/22682278/Ponsangel01.zip)
 - [Ponsangel02.zip](https://github.com/user-attachments/files/22682279/Ponsangel02.zip)
 
-> En programacion no tenemos archivos subidos si no carpetas asi que los comprimí y dejé aqui los zip para que pueda ser descargado y verlo por ti mismo 
+> En java no tenemos archivos subidos si no carpetas asi que los comprimí y dejé aqui los zip para que pueda ser descargado y verlo por ti mismo 
 
 ![Javascript](https://blog.interfell.com/hubfs/JavaScript%20un%20lenguaje%20de%20programaci%C3%B3n.jpg)
 
